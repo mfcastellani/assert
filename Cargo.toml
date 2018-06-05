@@ -1,9 +1,11 @@
 [package]
 name = "assert"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Marcelo Castellani <marcelofc.rock@gmail.com>"]
 
 [dependencies]
 clap = "2.31.2"
 console = "0.6.1"
 
+[dev-dependencies]
+docmatic = "0.1"
