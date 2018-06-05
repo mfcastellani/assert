@@ -5,3 +5,5 @@ authors = ["Marcelo Castellani <marcelofc.rock@gmail.com>"]
 
 [dependencies]
 clap = "2.31.2"
+console = "0.6.1"
+
